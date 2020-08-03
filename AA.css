@@ -59,8 +59,10 @@ td{
 td#aaaa{
     text-align: right
 }
-.mmmm{display: inline-block;
-position: -webkit-sticky;
+.mmmm{
+text-align: center;
+display:block;
+position: static;
 height: 60px;
 width: auto;
 color:black;
